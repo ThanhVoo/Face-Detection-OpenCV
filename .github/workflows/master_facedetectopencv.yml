@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'facedetectopencv'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_272ddc96832e478abe727f0e08ab44d8 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8149b31043c64242978a7bd930900016 }}
